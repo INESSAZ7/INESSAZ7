@@ -36,6 +36,8 @@ In my spare time I study Python and ML, develop telegram bots and web applicatio
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 </div>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ines_ka?ext=activity)
+
 
 ### 🤝 Connect with me:
 <p align="left">
