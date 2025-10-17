@@ -1,14 +1,28 @@
-## Hello, I'm Inessa 👋
 ![github_pic](https://github.com/user-attachments/assets/1e9a8372-e6d7-4b1c-ad12-ea4944f5b87c)
+## Hello, I'm Inessa 👋
 <h2>
-Product/Data Analyst📊, Python Developer 💻!
-</h2> 
-I'm currently working as a product/data analyst (3+ years experience) in a bank. I analyse customer behaviour in the application and help to find growth points for our product. 
+Product & Data Analyst
+</h2>
 
-In my spare time I study Python and ML, develop telegram bots and web applications.
+🕐 **Experience**: 3+ years  
+🏢 **Domain**: FinTech, AdTech  
 
+🎯 **Core Competencies:**
 
-### 🛠 Languages and Tools
+▫️ A/B test design & analysis  
+▫️ Growth research & insights  
+▫️ Dashboard & reporting automation  
+▫️ Product & marketing analytics  
+▫️ Data pipeline development
+
+🛠️ **Tech Stack**: SQL | Python | ETL | Tableau | Airflow
+
+💻 **Side Projects:**
+
+▫️ Studying Python and ML  
+▫️ Developing Telegram bots and web applications
+
+### Languages and Tools
 <div>
   <img height="27" src="https://img.shields.io/badge/-Python-0d182b?style=flat&logo=python" alt="python"> &nbsp;
   <img height="27" src="https://img.shields.io/badge/-C++-0d182b?style=flat&logo=C%2B%2B&logoColor=326696" alt="cpp"> &nbsp;
